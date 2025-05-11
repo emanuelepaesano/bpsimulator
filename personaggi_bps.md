@@ -1,4 +1,17 @@
-# PERSONAGGI
+---
+Data: 05-05-2025
+Ora: 17:09
+Descrizione: personaggi del gioco
+Argomenti:
+  - "[[bpsimulator]]"
+Link:
+  - link ad altre idee
+tags:
+  - idea
+  - progetto
+---
+# personaggi
+
 
 (tracciati normali: lavoro , collante, serate, calcio)
 Alter Ego calcistici:
@@ -62,7 +75,7 @@ ogni personaggio ha nell'altro lato della carta il suo alter ego calcistico. per
 
         +2 ricevi bonus social e avanzi su serate 
         +4 riazzeri qualunque problema avevi con la legge  
-        +6 sanson diventa tuo amico: puoi usarlo per vincere automaticamente un calcetto accoltellando il tuo avversario
+        +6 sanson diventa tuo amico: puoi usarlo per vincere automaticamente un  calcetto accoltellando il tuo avversario
         se accoltellato il tuo avversario è costretto ad algare (sarà in ospedale) tutto il turno successivo ma il turno dopo avrà un bonus di rispetto
         -1 perdi punti social
         -3 perdi 1 punto legge
@@ -86,12 +99,19 @@ ogni personaggio ha nell'altro lato della carta il suo alter ego calcistico. per
         0 calci alla classe a: -5 rispetto
         -2 radiato dal gruppo: -2 social, non puoi piu organizzare eventi e partecipare costa 5 energia in piu
 
-- calcio: inizi da 2  
-bonus:  
+calcio: inizi da 2  
+bonus:
+>      +2 (da subito) skillato: puoi ritirare un dado durante  un calcetto a settimana
+>         +4 inizi a pensare che potevi andare in serie a: ricevi +5 prod. energia e +1 social
+>         +6 ricevi una chiamata dalla nazionale dello zimbabue: se accetti +10 prod.energia ma devi allenarti e lavorare almeno 1 volta a settimana, altrimenti perdi il contratto.
+>         0 ti sta lievitando la panza: ricevi -5 prod. energia e -1 social
+>         -3 sei obeso: non puoi piu fare calcetti
 
-        +2 (da subito) skillato: puoi ritirare un dado durante  un calcetto a settimana
-        +4 inizi a pensare che potevi andare in serie a: ricevi +5 prod. energia e +1 social
-        +6 ricevi una chiamata dalla nazionale dello zimbabue: se accetti +10 prod.energia ma devi allenarti e lavorare almeno 1 volta a settimana, altrimenti perdi il contratto.
-        0 ti sta lievitando la panza: ricevi -5 prod. energia e -1 social
-        -3 sei obeso: non puoi piu fare calcetti
+>[!question] Come inserire le carte bonus in queste meccaniche?
+>Possiamo metterle principalmente come bonus ricevuti dai tracciati, per esempio l'amicizia con samson potrebbe essere una carta bonus e salire in quel livello ti consente di sbloccare la carta samson. Infatti piu che essere da pescare sono da sbloccare. Ma così è difficile farle valere anche da incentivo all'esplorazione. Possiamo incentivare l'esplorazione dando carte su tracciati secondari presto oppure boostando i tracciati primari con bonus dai secondari
+> Per esempio:
+>-  carta Samson si prende da lavoro
+>-  carta Resa dei Conti da collante
+>-  carta skillato ci parti
+>-  carta Alz da serate?
 

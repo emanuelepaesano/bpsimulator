@@ -1,3 +1,20 @@
+---
+Data: 05-05-2025
+Ora: 17:09
+Descrizione: regole del gioco
+Argomenti:
+  - "[[bpsimulator]]"
+Link:
+  - link ad altre idee
+tags:
+  - idea
+  - progetto
+---
+# regole
+
+
+
+
 # REGOLE DEL GIOCO
 
 ## SCOPO DEL GIOCO

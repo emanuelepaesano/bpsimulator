@@ -1,4 +1,22 @@
-# LISTA MECCANICHE
+---
+Data: 05-05-2025
+Ora: 17:05
+Descrizione: meccaniche del gioco
+Argomenti:
+  - "[[bpsimulator]]"
+Link:
+  - link ad altre idee
+tags:
+  - idea
+  - progetto
+---
+
+# meccaniche
+
+
+
+
+## LISTA MECCANICHE
 
 meccanice da includere (chi piu e chi meno) nel gioco
 
