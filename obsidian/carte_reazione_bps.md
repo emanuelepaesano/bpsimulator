@@ -16,6 +16,10 @@ tags:
 ## CARTE MAZZO REAZIONI
 
 tipi di evento: sport, serate, produttività, artistico, chill?
+>[!tip]
+>>[!]
+
+
 Queste carte dovrebbero essere in un mazzo centrale e pescate a ogni turno. vengono tenute in mano e utilizzate in reazione a certi eventi. direi che le reazioni possono essere riutilizzate liberamente ma c'e un limite di mano (forse solo alcune riutilizzabili come a TM) . 
 
 - botta di ketch: a evento serate, tira dado su tossicità, s 4+ ricevi bonus a qualunque tiro in quell'evento. se sei il gacio puoi usarlo durante i calcetti per bonus +1 dadi per 4 rispetto.

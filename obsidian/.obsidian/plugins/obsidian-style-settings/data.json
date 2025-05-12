@@ -1,0 +1,12 @@
+{
+  "neo-style@@accent-headings-off": true,
+  "neo-style@@neutral-bg": false,
+  "neo-style@@no-kanban-styles": false,
+  "neo-style@@neo-tabs-off": false,
+  "neo-style@@active-line": false,
+  "neo-style@@theme-variant": "default",
+  "things-style@@mobile-black-background": false,
+  "things-style@@fancy-code": false,
+  "things-style@@default-font-color": false,
+  "neo-style@@accent-affect-bg": false
+}

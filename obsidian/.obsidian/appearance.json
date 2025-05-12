@@ -1,3 +1,7 @@
 {
-  "accentColor": "#3994ea"
+  "cssTheme": "",
+  "accentColor": "#429eff",
+  "enabledCssSnippets": [
+    "custom-admonitions.8baa02"
+  ]
 }
