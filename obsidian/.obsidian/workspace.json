@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niti.md",
+                "file": "carte_evento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Niti"
+              "title": "carte_evento"
             }
           }
         ],
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niti.md",
+                "file": "carte_evento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Niti"
+              "title": "Outgoing links from carte_evento"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niti.md",
+                "file": "carte_evento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Niti"
+              "title": "Outline of carte_evento"
             }
           },
           {
@@ -183,16 +183,17 @@
   },
   "active": "46baa314dd9caa64",
   "lastOpenFiles": [
-    "funzionamento_calcetto.md",
-    "Niti.md",
+    "serate.md",
+    "carte_evento.md",
+    "carte_evento_personali.md",
     "Dario.md",
+    "Niti.md",
+    "funzionamento_calcetto.md",
     "900 templates/Template per personaggio bps.md",
     "Smano.md",
     "personaggi.md",
-    "carte_evento.md",
     "[sport.md",
     "carte_reazione.md",
-    "carte_evento_personali.md",
     "meccaniche.md",
     "bpsimulator.md",
     "900 templates/Template per carta evento bps.md",
@@ -211,7 +212,6 @@
     "000 zettelkasten/funzionamento_calcetto_bps.md",
     "000 zettelkasten/personaggi_bps.md",
     "000 zettelkasten/meccaniche_bps.md",
-    "000 zettelkasten/Untitled.md",
     "800 files/Pasted image 20250505172338.png",
     "Untitled.canvas",
     "100 references",

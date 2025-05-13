@@ -17,6 +17,11 @@ tags:
 >[!hint] idea
 >le carte evento contano come simboli a TM , i simboli sarebbero il tipo della carta, quindi al momento ci sono 4 simboli. L'organizzatore dell'evento si tiene la carta davanti a lui come in TM e avere un tot di simboli consente di giocare determinate carte e/o ricevere bonus a determinate condizioni, oppure è necessario per avanzare nei tracciati!
 
+>[!warning] 
+>Diventa importante stabilire dei payoff per certe sequenze di simboli .
+>Per esempio, con 3 simboli natura dario può attivare la scimmia suprema, o qualcosa del genere. Oppure alcune carte hanno bisogno di un tot di simboli per essere giocate.
+
+
 >[!abstract] Simboli evento (come in ark nova e tm)
 >- serate
 >- sport
@@ -26,12 +31,13 @@ tags:
 >- scienza/lavoro
 >- natura
 >- viaggi -> il viaggio conta come simbolo jolly
-## USCITE [costo_ini(risp) , costo part(en), costo_skip(risp)]
 
-### cuore del gioco, a ogni turno si fa un asta tra gli eventi disponibili (scoperti) usando i punti rispetto per essere organizzatori. Gli altri possono unirsi agli eventi al costo di energia (guadagnanto punti rispetto) e avranno conseguenze a un evento che dipendono da: personaggio, tiro dado, reazioni (carte uniche)
+## Eventi di gruppo
 
-- serata al forte[5,5,3]:
-  - o-> +1 [[serate]],+1 prod.rispetto
+ Cuore del gioco, a ogni turno si fa un asta tra gli eventi disponibili (scoperti) usando i punti rispetto per essere organizzatori. Gli altri possono unirsi agli eventi al costo di energia (guadagnanto punti rispetto) e avranno conseguenze a un evento che dipendono da: personaggio, tiro dado, reazioni (carte uniche)
+
+- serata al forte([[serate]]):
+  - o-> +1 serate,+1 prod.rispetto
   - p-> +5 risp, ?
 - parco acquedotti ([[natura]], [[serate]])
 - serata hardcore ([[serate]], [[serate]])
@@ -61,7 +67,7 @@ tags:
 - torneo di fifa ([[chill]])
 - serata giochi da tavolo ([[chill]])
 - nottata fino alle 10 ([[serate]])
-- trip di funghi (arte)
+- trip di funghi ([[artistico]])
 - spedizione al poço negro ([[natura]] , [[artistico]])
 - discorso di metafisica ([[artistico]], [[scienza]])
 - poker con epi ([[chill]])

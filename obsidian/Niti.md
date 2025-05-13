@@ -70,3 +70,9 @@ Puoi organizzare un calcetto standard in qualsiasi momento a un costo ridotto (8
 ```
 Puoi usare questo potere in qualunque evento di gruppo una volta a settimana. Se lo usi, partecipare è gratis (0E) per tutti. Se tutti partecipano prendi +1 a collante.
 ```
+
+- tira fuori le palle:
+```
+Puoi usarlo in un calcetto a settimana. Annulli tutti gli svantaggi di stile in quel calcetto (diventano neutrali) e i vantaggi di stile in attacco diventano automaticamente gol.
+```
+
