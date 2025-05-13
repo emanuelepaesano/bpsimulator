@@ -3,6 +3,7 @@ Data: "{{date:DD-MM-YYYY}}"
 Ora: "{{time:HH:mm}}"
 Argomenti:
   - "[[bpsimulator]]"
+  - "[[personaggi]]"
 tags:
   - personaggi
 ---

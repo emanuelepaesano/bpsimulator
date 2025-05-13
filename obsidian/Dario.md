@@ -1,8 +1,9 @@
 ---
-Data: "13-05-2025"
-Ora: "17:07"
+Data: 13-05-2025
+Ora: 17:07
 Argomenti:
   - "[[bpsimulator]]"
+  - "[[personaggi]]"
 tags:
   - personaggi
 ---
