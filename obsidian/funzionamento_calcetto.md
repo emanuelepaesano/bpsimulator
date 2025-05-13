@@ -4,15 +4,14 @@ Ora: 19:56
 Descrizione: minigioco del calcetto nel gioco
 Argomenti:
   - "[[bpsimulator]]"
-Link: []
+Link: 
 tags:
-  - idea
-  - progetto
+  - regole
 ---
 # funzionamento_calcetto_bps
 
 
-Il calcetto è una carta [[carte_evento_bps]] , viene estratta normalmente insieme agli altri eventi, ma a differenza degli altri è estratta a ogni turno. Ci sono diversi tipi di calcetto che richiedono una quantità di energia e rispetto diverse e danno premi diversi.
+Il calcetto è una carta [[carte_evento]] , viene estratta normalmente insieme agli altri eventi, ma a differenza degli altri è estratta a ogni turno. Ci sono diversi tipi di calcetto che richiedono una quantità di energia e rispetto diverse e danno premi diversi.
 
 ## Regole dell' evento calcetto
 
@@ -74,6 +73,6 @@ Funziona così:
 
 ## Poteri speciali
 
-Alcuni personaggi hanno poteri speciali (legati ai loro tracciati) utilizzabili nel calcetto. Inoltre ci sono [[carte_reazione_bps]] che consentono di ri-tirare dadi o attivare bonus durante i calcetti.
+Alcuni personaggi hanno poteri speciali (legati ai loro tracciati) utilizzabili nel calcetto. Inoltre ci sono [[carte_reazione]] che consentono di ri-tirare dadi o attivare bonus durante i calcetti.
 per esempio modello di fantaculo ti consente di scommettere sul finale del calcetto. smano può ritirare un dado in un calcetto a settimana, e cosi via
 

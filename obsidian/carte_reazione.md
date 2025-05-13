@@ -7,8 +7,7 @@ Argomenti:
 Link:
   - link ad altre idee
 tags:
-  - idea
-  - progetto
+  - carte
 ---
 # carte_reazione
 
@@ -16,8 +15,6 @@ tags:
 ## CARTE MAZZO REAZIONI
 
 tipi di evento: sport, serate, produttività, artistico, chill?
->[!tip]
->>[!]
 
 
 Queste carte dovrebbero essere in un mazzo centrale e pescate a ogni turno. vengono tenute in mano e utilizzate in reazione a certi eventi. direi che le reazioni possono essere riutilizzate liberamente ma c'e un limite di mano (forse solo alcune riutilizzabili come a TM) . 

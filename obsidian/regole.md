@@ -7,8 +7,7 @@ Argomenti:
 Link:
   - link ad altre idee
 tags:
-  - idea
-  - progetto
+  - regole
 ---
 # regole
 

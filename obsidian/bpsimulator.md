@@ -3,7 +3,6 @@ Data: 05-05-2025
 Ora: 17:00
 tags:
   - argomento
-  - progetto
 ---
 # bpsimulator
 
