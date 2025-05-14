@@ -17,17 +17,20 @@ tags:
 >Basterebbe far uscire 3 o 4 eventi personali a ogni turno in modo che in media ci sia un po di tutto e scorrano . Ma il bussaggio comunque si potrebbe fare, cosi il turno non decide troppo chi lo usa. Possiamo fare che, nel momento in cui gli eventi vengono estratti, chi vuole bussare lo dichiara e comincia un asta partendo da 2R. a quel punto solo lui può usare quell'evento e deve farlo come prossima azione. chiaramente deve avere l'energia sufficiente. 
 
 Dovrebbero essere estratti come i calcetti a parte. Da chiarire bene come dovrebbero funzionare.
-Però in teoria ne estrai 3/4 a turno e chiunque li puo usare durante il suo turno senza iniziare un'asta ma utilizzando energia. Possono avere categorie diverse oppure condividere le stesse. Da vedere. Possiamo mettere la meccanica del bussaggio
+Però in teoria ne estrai 3/4 a turno e chiunque li puo usare durante il suo turno senza iniziare un'asta ma utilizzando energia. Possono avere categorie diverse oppure condividere le stesse. Da vedere. Possiamo mettere la meccanica del bussaggio.
+Oppure..................................
+Ogni personaggio lo puo fare come un progetto standard, ognuno ha il suo lavoro diverso e ha un suo svolgimento diverso ???????
+Sennò li togliamo del tutto e amen, mettiamo eventi che hanno solo organizzatore e niente partecipanti e costano energia ma sono dello stesso mazzo , boh.
 
 Per ora abbiamo questi:
-- [[sport]]
+- sport
   - corsa, allenamento frisbee, allenamento calcio, palestra, ...  
   danno produzione energia
 - lavoro
-  - lavoro greve, lavoro [[chill]], straordinari, lavoro non pagato, barista a acrobax, schiavo delle multinazionali, ...
+  - lavoro greve, lavoro chill, straordinari, lavoro non pagato, barista a acrobax, schiavo delle multinazionali, ...
   danno tracciato lavoro e produzione rispetto. alcuni tolgono produzione energia.
 - studio
-  - studio greve, preparare esame , studio [[chill]], studio di notte, ...
+  - studio greve, preparare esame , studio chill, studio di notte, ...
   uguali a lavoro
 - uscire con tipa
   - tipa di tinder, modella, estetista, trans, 50enne, "18enne", ...

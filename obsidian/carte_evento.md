@@ -14,12 +14,17 @@ tags:
 # EVENTI DEL GIOCO
 
 
->[!hint] idea
+
+>[!hint] Simboli carte ed organizzazione
 >le carte evento contano come simboli a TM , i simboli sarebbero il tipo della carta, quindi al momento ci sono 4 simboli. L'organizzatore dell'evento si tiene la carta davanti a lui come in TM e avere un tot di simboli consente di giocare determinate carte e/o ricevere bonus a determinate condizioni, oppure è necessario per avanzare nei tracciati!
 
->[!warning] 
+>[!warning] Ricompense combo?
 >Diventa importante stabilire dei payoff per certe sequenze di simboli .
->Per esempio, con 3 simboli natura dario può attivare la scimmia suprema, o qualcosa del genere. Oppure alcune carte hanno bisogno di un tot di simboli per essere giocate.
+>Per esempio, con 3 simboli natura dario può attivare la scimmia suprema, o qualcosa del genere. Oppure alcune carte hanno bisogno di un tot di simboli per essere giocate. 
+>
+>Se peschi una reazione potente ma per cui ti servono altri simboli , magari puoi decidere di investire in quel tracciato, oppure puoi decidere di scartarla, oppure ancora puoi decidere di puntare su eventi che ti sblocchino altre carte in mano.
+>
+>Possiamo anche fare che avere un certo simbolo nel tuo personaggio consente di passare automaticamente alcune skill check.
 
 
 >[!abstract] Simboli evento (come in ark nova e tm)
@@ -31,6 +36,14 @@ tags:
 >- scienza/lavoro
 >- natura
 >- viaggi -> il viaggio conta come simbolo jolly
+
+
+>[!note] Cose da coprire con gli eventi 
+>- [ ] Payoff per combo di simboli ( carte con requisiti, alcuni anche in carte reazione)
+>- [ ] Eventi per percorso lavoro senza fare solo lavoro personale, sarebbe noioso
+>- [ ] Sblocco di ulteriori carte reazione (mettiamone un po' per rendere divertente)
+>- [ ] Interazione con simboli personali se li mettiamo (dà sconto?)
+>- [ ] Conversione tra punti tracciato e/o valute (anche in carte bonus o prog.standard?) 
 
 ## Eventi di gruppo
 
@@ -118,10 +131,10 @@ Per più info: [[carte_evento_personali]]
 tra i calcetti diversi cambia il costo in rispetto ed energia per organizzarli, e anche i premi alla vittoria.
 in generale i calcetti danno punti tracciato calcetto e rispetto se vinci, produzione energia a tutti i partecipanti (quelli tosti di piu)
 
-Per più info: [[funzionamento_calcetto]]
+Per più info: [[carte_evento_calcetto]]
 
 # BRAINSTORMING EVENTI
- 
+
 ### **mega goccia di birra**
 
 | Categorie evento        | --- |
@@ -134,6 +147,7 @@ svolgimento evento:
 ```
 l'organizzatore ordina 3 caraffozzi da 3 litri di birra al gallo. chi non se li goccia è un gacio (-5 rispetto se non partecipi). Ognuno tira un dado su bevitore, con 2- sbratta. se non sbratti +5 rispetto,+3E, +1 social per il resto della settimana. se sbratti -5 rispetto e -5 energia. Per ognuno che sbratta l'organizzatore guadagna 5 rispetto. se l'organizzatore sbratta perde -10 rispetto e -5 energia.
 ```
+	
 ---
 ### **cartoncino del gacio**
 

@@ -27,7 +27,7 @@ Dario dovrebbe essere un mix di serate, sport e lavoro . Dovrebbe spingere piu c
 | Tossicità      | +1          |
 | Bevitore       | 0           |
 | Social         | 0           |
-| Intelligenza   | +2          |
+| Intelligenza   | +1          |
 | Arte           | 0           |
 | Forma Fisica   | +2          |
 

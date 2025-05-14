@@ -8,7 +8,7 @@ Link:
 tags:
   - regole
 ---
-# funzionamento_calcetto_bps
+# calcetto
 
 
 Il calcetto è una carta [[carte_evento]] , viene estratta normalmente insieme agli altri eventi, ma a differenza degli altri è estratta a ogni turno. Ci sono diversi tipi di calcetto che richiedono una quantità di energia e rispetto diverse e danno premi diversi.
@@ -73,6 +73,6 @@ Funziona così:
 
 ## Poteri speciali
 
-Alcuni personaggi hanno poteri speciali (legati ai loro tracciati) utilizzabili nel calcetto. Inoltre ci sono [[carte_reazione]] che consentono di ri-tirare dadi o attivare bonus durante i calcetti.
+Alcuni personaggi hanno poteri speciali (legati ai loro tracciati) utilizzabili nel calcetto. Inoltre ci sono [[carte_azioni_speciali]] che consentono di ri-tirare dadi o attivare bonus durante i calcetti.
 per esempio modello di fantaculo ti consente di scommettere sul finale del calcetto. smano può ritirare un dado in un calcetto a settimana, e cosi via
 

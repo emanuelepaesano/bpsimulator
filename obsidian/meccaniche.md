@@ -31,3 +31,4 @@ meccanice da includere (chi piu e chi meno) nel gioco
 
 - VP as resource in un certo senso, solo che sono definiti vagamente.
  dobbiamo creare dei modi per convertire punti da un tracciato all'altro (per un certo costo)
+ - bash the leader, se uno sta avanti gli altri dovrebbero coalizzarsi per non fargli fare eventi importanti
