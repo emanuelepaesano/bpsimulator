@@ -11,9 +11,6 @@ tags:
 ---
 # azioni speciali (ex carte reazione)
 
-OKKKKKKKKKKKKK MEGA IDEA:
-le carte azioni speciali e le carte bonus sono le stesse carte. Le carte bonus sono semplicemente azioni speciali che sono associate a un personaggio,. A seconda dei personaggi che sono nel gioco le carte vengono assegnate ai relativi personaggi. se quei personaggi non sono nel gioco le carte rimangono nel mazzo azioni speciali . Per esempio la botta di speed fa parte dell'endowment del gacio, ma se il gacio non è nel gioco la carta può essere pescata da chiunque nel mazzo secondo le regole sotto.
-NBBB se quel personaggio è in gioco le carte vengono integrate nel sistema di progressione del personaggio, altrimenti si possono pescare randomicamente con il limite classico. Troppo caotico?
 ## CARTE MAZZO REAZIONI
 
 >[!warning] problema
@@ -31,6 +28,9 @@ es. smano usa una reazione e sblocca la seconda carta reazione. allora ne pesca 
 Cosi mi piace, perche di base hai l'incentivo a usarle a stecca per pescarne altre con un certo limite. Però alcune hanno dei requisiti che potrebbero bloccarti la partita o spingerti a seguire i requisiti.
 >NB(!) In questo modo le carte reazione diventano la parte piu potente del gioco (che ti fa sentire una bestia quando la usi). Nelle carte reazione dovrebbero esserci i payoff principali delle combo e le cose che possono cambiare una partita. 
 
+>[!OKKKKK MEGA IDEA]
+le carte azioni speciali e le carte bonus sono le stesse carte. Le carte bonus sono semplicemente azioni speciali che sono associate a un personaggio,. A seconda dei personaggi che sono nel gioco le carte vengono assegnate ai relativi personaggi. se quei personaggi non sono nel gioco le carte rimangono nel mazzo azioni speciali . Per esempio la botta di speed fa parte dell'endowment del gacio, ma se il gacio non è nel gioco la carta può essere pescata da chiunque nel mazzo secondo le regole sotto.
+NBBB se quel personaggio è in gioco le carte vengono integrate nel sistema di progressione del personaggio, altrimenti si possono pescare dal mazzo apposito con il limite classico. Troppo caotico?
 
 Dovrebbero essere almeno una sessantina...
 Alcune sono monouso e si scartano e poi refillano

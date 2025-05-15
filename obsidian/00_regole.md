@@ -16,7 +16,9 @@ tags:
 
 # REGOLE DEL GIOCO
 
-## SCOPO DEL GIOCO
+>[!warning] Regole da aggiornare
+
+ ## SCOPO DEL GIOCO
 
 Lo scopo del gioco è fare il panico in qualcosa. Nel gioco questo viene rappresentato tramite i tracciati punteggio:
 
@@ -34,12 +36,12 @@ I tracciati hanno un punto di partenza e dei bonus di avanzamento che dipendono 
 
 Lo svolgimento di ogni turno rappresenta una settimana di bps.
 
-Il gioco si basa su carte che rappresentano eventi e reazioni ad eventi. Le reazioni sono personalizzate e influenzano lo svolgimento degli eventi. Inoltre ogni personaggio ha caratteristiche uniche che influenzano i tiri di dado di alcuni eventi. \
+Il gioco si basa su carte che rappresentano eventi e reazioni ad eventi. Le reazioni sono personalizzate e influenzano lo svolgimento degli eventi. Inoltre ogni personaggio ha caratteristiche uniche che influenzano i tiri di dado di alcuni eventi.
 Per avanzare nei tracciati bisogna organizzare o partecipare ad eventi.
 
 ### Organizzare Eventi
 
-N eventi (2 o 3 direi) vengono pescati a ogni turno da un mazzo unico e vengono messi al centro del tavolo all'inizio del turno. Per organizzare eventi bisogna pagare un prezzo in "punti rispetto". Il prezzo e l'organizzatore vengono stabiliti tramite un asta il cui prezzo di partenza è scritto sulla carta. \
+N eventi (2 o 3 direi) vengono pescati a ogni turno da un mazzo unico e vengono messi al centro del tavolo all'inizio del turno. Per organizzare eventi bisogna pagare un prezzo in "punti rispetto". Il prezzo e l'organizzatore vengono stabiliti tramite un asta il cui prezzo di partenza è scritto sulla carta.
 Organizzare un evento conferisce dei bonus che dipendono dall'evento, dal personaggio e da eventuali carte reazione utilizzate.
 Ogni evento ha un suo tipo: produttività, serate, sport, artistico. il tipo determina quali reazioni si possono usare in relazione all'evento.
 
@@ -64,35 +66,33 @@ Alla fine del turno ogni giocatore riceve energia pari al bonus algata + la loro
 
 ## PERSONAGGI
 
-Ogni personaggio ha un set di caratteristiche di base che influenzano i dadi come in DnD:
+Vedi [[personaggi]]
 
-- bevitore
+~~Ogni personaggio ha un set di caratteristiche di base che influenzano i dadi come in DnD:~~
 
-- tossicità
+- ~~bevitore~~
 
-- intelligenza
+- ~~tossicità~~
 
-- social
+- ~~intelligenza~~
 
-- pazzia
+- ~~social~~
 
-Si può avere da +3 a -3 ai tiri di dado in base alle caratteristiche corrispondenti.
-esempio: l'evento dice "al gallo ordini a tradimento 3 caraffozzi da 5 litri di birra. Se gli altri non bevono sono dei gaci, ma se bevi rischi lo sbratto. P,O: se bevi: 4+? +10R:-10R , ma ricevi bonus in base alla tua caratteristica di bevitore. O: +5R se tutti bevono , -2R per ognuno che non beve. Se non bevi paghi 4PR (prezzo pisciaggio)
+- ~~pazzia~~
 
-## CARTE REAZIONE
+~~Si può avere da +3 a -3 ai tiri di dado in base alle caratteristiche corrispondenti.~~
+~~esempio: l'evento dice "al gallo ordini a tradimento 3 caraffozzi da 5 litri di birra. Se gli altri non bevono sono dei gaci, ma se bevi rischi lo sbratto. P,O: se bevi: 4+? +10R:-10R , ma ricevi bonus in base alla tua caratteristica di bevitore. O: +5R se tutti bevono , -2R per ognuno che non beve. Se non bevi paghi 4PR (prezzo pisciaggio)~~
+
+## CARTE  AZIONE SPECIALE (REAZIONE)
+
+Vedi [[carte_azioni_speciali]]
 
 ~~Il grosso della caratterizzazione dei personaggi la 
 fanno le carte reazione. Ogni personaggio ha un mazzo personalizzato di carte reazione (forse anche con uno comune, da vedere) che può utilizzare in risposta agli eventi. Per esempio dario avrà come reazioni nel suo mazzo "naso prominente" e "lancio delle feci". Il gacio avrà "botta di ketch" e "grinch". Le reazioni influenzano lo svolgimento degli eventi e possono dare bonus (o malus se c'è un tiro di dado) permanenti.~~
 
-Potremmo fare invece che tutte le reazioni siano comuni, e che ogni giocatore abbia un suo mazzetto di carte speciali personalizzate invece, che prende al raggiungimento di determinati obiettivi. Queste carte potrebbero dare bonus permanenti o reazioni sempre utilizzabili. potrebbero essere carte 'realizzazione' che definiscono parti del tuo carattere, e cosi ti danno dei poteri permanenti.
-
-Facendo cosi, le carte reazione però dovrebbero avere effetti diversi a seconda dei pg che li usano, ma sarebbero troppi se dobbiamo fare tutti i personaggi (non ti uscirebbe mai la carta specifica tua). allora possiamo fare che le reazioni comuni sono influenzate solo dalle tue caratteristiche.
-
 ## CALCETTI
 
-I calcetti sono eventi speciali che vengono estratti da un mazzetto a parte (ci sarà sempre almeno un calcetto disponibile sul tavolo). Nel momento in cui viene organizzato un calcetto comincia un minigioco in cui si affrontano due squadre.
-
-1. entrambe le formazioni scelgono attacco
+Vedi [[carte_evento_calcetto]]
 
 ## STRATEGIA
 

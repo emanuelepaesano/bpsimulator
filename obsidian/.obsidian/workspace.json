@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p_Tommi.md",
+                "file": "00_regole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p_Tommi"
+              "title": "00_regole"
             }
           }
         ],
@@ -183,19 +183,19 @@
   },
   "active": "6a12f34741f2e8d3",
   "lastOpenFiles": [
+    "carte_evento_personali.md",
+    "meccaniche.md",
+    "carte_evento_calcetto.md",
+    "carte_evento.md",
+    "carte_azioni_speciali.md",
+    "bpsimulator.md",
+    "00_regole.md",
     "personaggi.md",
     "900 templates/Template per personaggio bps.md",
     "p_Tommi.md",
     "p_Niti.md",
     "p_Smano.md",
     "p_Dario.md",
-    "meccaniche.md",
-    "carte_evento_personali.md",
-    "carte_azioni_speciali.md",
-    "regole.md",
-    "bpsimulator.md",
-    "carte_evento_calcetto.md",
-    "carte_evento.md",
     "chill.md",
     "viaggi.md",
     "serate.md",
