@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meccaniche.md",
+                "file": "p_Tommi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meccaniche"
+              "title": "p_Tommi"
             }
           }
         ],
@@ -183,21 +183,22 @@
   },
   "active": "6a12f34741f2e8d3",
   "lastOpenFiles": [
-    "carte_evento_personali.md",
+    "personaggi.md",
+    "900 templates/Template per personaggio bps.md",
+    "p_Tommi.md",
+    "p_Niti.md",
     "p_Smano.md",
     "p_Dario.md",
-    "p_Niti.md",
+    "meccaniche.md",
+    "carte_evento_personali.md",
     "carte_azioni_speciali.md",
-    "personaggi.md",
     "regole.md",
     "bpsimulator.md",
     "carte_evento_calcetto.md",
-    "meccaniche.md",
     "carte_evento.md",
     "chill.md",
     "viaggi.md",
     "serate.md",
-    "900 templates/Template per personaggio bps.md",
     "[sport.md",
     "900 templates/Template per carta evento bps.md",
     "900 templates/Template per Hub o Argomento.md",
@@ -211,7 +212,6 @@
     "000 zettelkasten/regole_bps.md",
     "000 zettelkasten/carte_evento_bps.md",
     "000 zettelkasten/carte_reazione_bps.md",
-    "000 zettelkasten/funzionamento_calcetto_bps.md",
     "800 files/Pasted image 20250505172338.png",
     "Untitled.canvas",
     "100 references",

@@ -28,7 +28,6 @@ Il niti è un personaggio inizialmente crepato, basa tutto sul diventare il coll
 | Tossicità      | -3          |
 | Bevitore       | +1          |
 | Social         | -1          |
-| Intelligenza   | +1          |
 | Arte           | -1          |
 | Forma Fisica   | +1          |
 

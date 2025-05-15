@@ -27,7 +27,6 @@ tags:
 | Tossicità      | -1          |
 | Bevitore       | +2          |
 | Social         | +2          |
-| Intelligenza   | 0           |
 | Arte           | 0           |
 | Forma Fisica   | 0           |
 
